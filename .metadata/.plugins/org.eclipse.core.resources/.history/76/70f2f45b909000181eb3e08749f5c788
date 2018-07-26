@@ -1,0 +1,5 @@
+package com.sample.client.model;
+
+public class Emp {
+
+}

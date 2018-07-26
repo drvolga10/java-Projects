@@ -1,0 +1,20 @@
+package sampleStreams;
+
+import java.awt.List;
+
+public class InternalVsExternal {
+	
+	public static void main(String args[])
+	{
+		
+	}
+	
+	private void processList(List<String> list)
+	{
+		for(String string: list)
+		{
+			System.out.println(string);
+		}
+	}
+
+}

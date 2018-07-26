@@ -1,0 +1,32 @@
+package sampleStreams;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class InternalVsExternal {
+	
+	public static void main(String args[])
+	{
+		List<String> list=new ArrayList<>();
+		list.add("v1");
+		list.add("v1");
+		list.add("v1");
+		list.add("v1");
+		list.add("v1");
+		list.add("v1");
+	}
+	
+	private void processListInternally(List<String> list)
+	{
+		list.forEach(item->System.out.println(item));
+	}
+	
+	private void processListExternally(List<String> list)
+	{
+		for(String string: list)
+		{
+			System.out.println(string);
+		}
+	}
+
+}

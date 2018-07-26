@@ -1,0 +1,5 @@
+package com.aop.sample.service.ascpect;
+
+public class EmployeeServiceAspect {
+
+}
