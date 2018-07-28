@@ -1,5 +1,0 @@
-INDEX VERSION 1.130
-D:\personal\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\122305309.index
-\bootResourceClient\src\main\java
-D:\personal\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1602423138.index
-\bootResourceClient\src\main\java
