@@ -3,3 +3,5 @@ D:\personal\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\122305309
 \bootResourceClient\src\main\java
 D:\personal\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1602423138.index
 \bootResourceClient\src\main\java
+D:\personal\JavaProjects\java-Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\122305309.index
+\bootResourceClient\src\main\java
